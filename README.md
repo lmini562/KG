@@ -1,2 +1,2 @@
 # KG
-g
+Computer graphics
